@@ -19,11 +19,7 @@ module.exports = {
             {
                 title: '期权知识',
                 collapsable: false,
-                children: [
-                    'c01/s01-requirements',
-                    'c01/s02-initProject',
-                    'c01/s03-base'
-                ]
+                children: ['c01/s01-option']
             }
         ]
     }
